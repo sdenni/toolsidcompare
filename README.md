@@ -138,16 +138,6 @@ Tabel yang menunjukkan keberadaan setiap ID di setiap file dengan simbol:
 - Pastikan file CSV menggunakan encoding UTF-8
 - Jika menggunakan Excel, save as CSV dengan encoding UTF-8
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini:
-
-1. Fork repository
-2. Buat branch fitur baru
-3. Commit perubahan Anda
-4. Push ke branch
-5. Buat Pull Request
-
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan analisis data internal.
